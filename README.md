@@ -1,1 +1,1 @@
-# dissertation
+This repository contains the Python notebook used for analysis and the shapefile which includes all data utilised in this study. For reproducible code execution, the shapefile dataset must be downloaded locally, as the file size exceeds the limit for direct access via links in the Python notebook. Please note that after downloading the shapefile, the file path will need to be updated in the notebook code before running. 
